@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\02Harvest\bin\Debug\02Harvest.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\02Harvest\bin\Debug\02Harvest.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\02Harvest\bin\Debug\02Harvest.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\02Harvest\obj\Debug\02Harvest.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\02Harvest\obj\Debug\02Harvest.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\02Harvest\obj\Debug\02Harvest.pdb

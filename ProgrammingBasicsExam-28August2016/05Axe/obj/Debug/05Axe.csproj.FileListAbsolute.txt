@@ -1,0 +1,9 @@
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\05Axe\bin\Debug\05Axe.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\05Axe\bin\Debug\05Axe.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\05Axe\bin\Debug\05Axe.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\05Axe\obj\Debug\05Axe.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\05Axe\obj\Debug\05Axe.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\05Axe\obj\Debug\05Axe.pdb
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\05Axe\bin\Debug\05Axe.exe.config
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\05Axe\obj\Debug\05Axe.exe
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\05Axe\obj\Debug\05Axe.pdb

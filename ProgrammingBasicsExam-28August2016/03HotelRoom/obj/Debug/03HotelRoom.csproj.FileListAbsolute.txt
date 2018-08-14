@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\03HotelRoom\bin\Debug\03HotelRoom.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\03HotelRoom\bin\Debug\03HotelRoom.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\03HotelRoom\bin\Debug\03HotelRoom.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\03HotelRoom\obj\Debug\03HotelRoom.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\03HotelRoom\obj\Debug\03HotelRoom.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\03HotelRoom\obj\Debug\03HotelRoom.pdb

@@ -1,0 +1,9 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\04HospitaL\bin\Debug\04HospitaL.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\04HospitaL\bin\Debug\04HospitaL.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\04HospitaL\bin\Debug\04HospitaL.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\04HospitaL\obj\Debug\04HospitaL.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\04HospitaL\obj\Debug\04HospitaL.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-28August2016\04HospitaL\obj\Debug\04HospitaL.pdb
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\04HospitaL\bin\Debug\04HospitaL.exe.config
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\04HospitaL\obj\Debug\04HospitaL.exe
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\04HospitaL\obj\Debug\04HospitaL.pdb

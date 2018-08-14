@@ -1,0 +1,12 @@
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\06Digits\bin\Debug\06Digits.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\06Digits\bin\Debug\06Digits.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\06Digits\bin\Debug\06Digits.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\06Digits\obj\Debug\06Digits.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\06Digits\obj\Debug\06Digits.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgrammingBasicsExam-28August2016\06Digits\obj\Debug\06Digits.pdb
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\06Digits\bin\Debug\06Digits.exe.config
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\06Digits\obj\Debug\06Digits.exe
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\06Digits\obj\Debug\06Digits.pdb
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\06Digits\bin\Debug\06Digits.exe
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\06Digits\bin\Debug\06Digits.pdb
+D:\programing\SoftUni\Programming Basics - exams\ProgrammingBasicsExam-28August2016\06Digits\obj\Debug\06Digits.csprojResolveAssemblyReference.cache

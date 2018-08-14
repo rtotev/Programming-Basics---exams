@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05Stop", "05Stop\05Stop.csproj", "{31C98D57-7CEB-47D1-8063-A32D6DA23184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06SpecialNumbers", "06SpecialNumbers\06SpecialNumbers.csproj", "{1FD9F305-0598-4D74-BC94-E54144DD07D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04SmartLili", "04SmartLili\04SmartLili.csproj", "{9F52061C-1F12-404C-8863-612B6B604A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03OpearationBetweenNumbers", "03OpearationBetweenNumbers\03OpearationBetweenNumbers.csproj", "{3D913F41-F01D-47E5-8952-29A211097315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02SleepingCatTom", "SleepingCatTom\02SleepingCatTom.csproj", "{1AEC83EA-808E-4C18-9184-88590FE412EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01RepearPlates", "01RepearPlates\01RepearPlates.csproj", "{B1547090-1FAA-41D9-B03E-94180AFDD233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C98D57-7CEB-47D1-8063-A32D6DA23184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C98D57-7CEB-47D1-8063-A32D6DA23184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C98D57-7CEB-47D1-8063-A32D6DA23184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C98D57-7CEB-47D1-8063-A32D6DA23184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD9F305-0598-4D74-BC94-E54144DD07D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD9F305-0598-4D74-BC94-E54144DD07D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD9F305-0598-4D74-BC94-E54144DD07D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD9F305-0598-4D74-BC94-E54144DD07D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F52061C-1F12-404C-8863-612B6B604A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F52061C-1F12-404C-8863-612B6B604A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F52061C-1F12-404C-8863-612B6B604A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F52061C-1F12-404C-8863-612B6B604A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D913F41-F01D-47E5-8952-29A211097315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D913F41-F01D-47E5-8952-29A211097315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D913F41-F01D-47E5-8952-29A211097315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D913F41-F01D-47E5-8952-29A211097315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEC83EA-808E-4C18-9184-88590FE412EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEC83EA-808E-4C18-9184-88590FE412EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEC83EA-808E-4C18-9184-88590FE412EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEC83EA-808E-4C18-9184-88590FE412EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1547090-1FAA-41D9-B03E-94180AFDD233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1547090-1FAA-41D9-B03E-94180AFDD233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1547090-1FAA-41D9-B03E-94180AFDD233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1547090-1FAA-41D9-B03E-94180AFDD233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

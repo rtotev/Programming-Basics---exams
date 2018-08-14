@@ -1,0 +1,5 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\05Diamond\bin\Debug\05Diamond.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\05Diamond\bin\Debug\05Diamond.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\05Diamond\bin\Debug\05Diamond.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\05Diamond\obj\Debug\05Diamond.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\05Diamond\obj\Debug\05Diamond.pdb

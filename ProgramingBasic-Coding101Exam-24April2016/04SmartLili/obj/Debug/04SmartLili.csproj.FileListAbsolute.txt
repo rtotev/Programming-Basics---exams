@@ -1,0 +1,5 @@
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\04SmartLili\bin\Debug\04SmartLili.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\04SmartLili\bin\Debug\04SmartLili.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\04SmartLili\bin\Debug\04SmartLili.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\04SmartLili\obj\Debug\04SmartLili.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\04SmartLili\obj\Debug\04SmartLili.pdb

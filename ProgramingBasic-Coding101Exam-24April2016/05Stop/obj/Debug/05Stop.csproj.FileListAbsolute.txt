@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\05Stop\bin\Debug\05Stop.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\05Stop\bin\Debug\05Stop.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\05Stop\bin\Debug\05Stop.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\05Stop\obj\Debug\05Stop.csprojResolveAssemblyReference.cache
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\05Stop\obj\Debug\05Stop.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\05Stop\obj\Debug\05Stop.pdb

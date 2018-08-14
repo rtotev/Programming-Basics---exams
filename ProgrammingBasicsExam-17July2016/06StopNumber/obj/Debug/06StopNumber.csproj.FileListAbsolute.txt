@@ -1,0 +1,6 @@
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\06StopNumber\bin\Debug\06StopNumber.exe.config
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\06StopNumber\bin\Debug\06StopNumber.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\06StopNumber\bin\Debug\06StopNumber.pdb
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\06StopNumber\obj\Debug\06StopNumber.csprojResolveAssemblyReference.cache
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\06StopNumber\obj\Debug\06StopNumber.exe
+C:\Users\Rosen\Documents\Visual Studio 2015\Projects\ProgrammingBasicsExam-17July2016\06StopNumber\obj\Debug\06StopNumber.pdb

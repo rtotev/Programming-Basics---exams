@@ -1,0 +1,6 @@
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\03OpearationBetweenNumbers\bin\Debug\03OpearationBetweenNumbers.exe.config
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\03OpearationBetweenNumbers\bin\Debug\03OpearationBetweenNumbers.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\03OpearationBetweenNumbers\bin\Debug\03OpearationBetweenNumbers.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\03OpearationBetweenNumbers\obj\Debug\03OpearationBetweenNumbers.exe
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\03OpearationBetweenNumbers\obj\Debug\03OpearationBetweenNumbers.pdb
+c:\users\rosen\documents\visual studio 2015\Projects\ProgramingBasic-Coding101Exam-24April2016\03OpearationBetweenNumbers\obj\Debug\03OpearationBetweenNumbers.csprojResolveAssemblyReference.cache
